@@ -93,7 +93,7 @@ nginx                      : ok=5    changed=2    unreachable=0    failed=0
 
 При переходе в браузере по адресу http://192.168.11.150:8080:
 
-![alt-текст] (https://github.com/natali1701/OtusHW11/blob/master/Screenshot%20from%202019-04-23%2010-59-00.png)
+![alt-текст](https://github.com/natali1701/OtusHW11/blob/master/Screenshot%20from%202019-04-23%2010-59-00.png)
 
 Из консоли можем увидеть это же, выполнив команду:
 
